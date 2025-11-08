@@ -9,3 +9,5 @@
 Code : R --> https://colab.research.google.com/drive/1FvPcZTP1RizoAiJG55YQzaGKBbV64vPU?usp=sharing
 
 ## Reference : https://www.youtube.com/watch?v=hxGx7KFIOv8&t=472s
+
+https://github.com/tontantip/DADS6001-Applied-statistics/tree/main/code/project%20group
