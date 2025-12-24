@@ -1,5 +1,10 @@
-# DADS6001-AS-Project1
+# DADS6001-AS-Project3 
+## Paper : https://www.nature.com/articles/s41586-025-09335-x
+## Presentation : ANOVA Two Ways
+### 1. Canvas link : https://www.canva.com/design/DAG8OZL7_f8/POtl0QdalftOT1akDovsbg/edit
+## Code : R --> https://colab.research.google.com/github/siriwatsc-debug/DADS6001-AS-Project1/blob/main/Project3.ipynb#scrollTo=NJoYz9-XftOf
 
+# DADS6001-AS-Project1
 ## Paper : https://www.nature.com/articles/s41586-025-09335-x
 ## Presentation : 
 ### 1. Canvas link : https://www.canva.com/design/DAG1vGqqFmA/V1XmFIOoGJAw9ltspILZzA/edit
